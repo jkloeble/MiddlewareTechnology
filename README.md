@@ -1,1 +1,1 @@
-[Bild.pdf](https://github.com/jkloeble/MiddlewareTechnology/files/13649666/Bild.pdf)
+![Middleware](https://github.com/jkloeble/MiddlewareTechnology/assets/149150662/3f6e6643-6d1a-42bb-a379-d7f4158374fd)
