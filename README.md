@@ -3,3 +3,8 @@
 
 The PVL was not carried out with Spring Boot, but mainly with Python. The graphic shows which requirements have already been implemented and with which files . 
 # Using CRUD 
+
+# Future To-Dos 
+- Database connection
+- Frontend to API
+- Create a .tar and .sh for the Docker Image 
